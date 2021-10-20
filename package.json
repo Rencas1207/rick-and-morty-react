@@ -2,6 +2,7 @@
   "name": "rick-and-morty",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rencas1207.github.io/rick-and-morty-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -17,6 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d buil",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -38,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.2.3",
     "styled-components": "^5.3.1"
   }
 }
