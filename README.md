@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### PAQUETES INSTALADOS A ESTE PROYECTO
+
+nprogress [https://www.npmjs.com/package/nprogress] ejecutando: `npm install --save nprogress `
+
+Para utilizar nprogress tenemos que utilizar el archivo script importando de esta manera: import NProgress from 'nprogress';
+
+Y el archivo css lo encontramos en node_modules, que será copiado y lo guardamos en "src".
+
+Utilizamos tmbn react-router-dom [https://reactrouter.com/web/guides/quick-start] ejecutando: `npm install react-router-dom`
