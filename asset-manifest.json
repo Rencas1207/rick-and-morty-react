@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rick-and-morty-react/static/css/main.ff5f709e.chunk.css",
+    "main.css": "/rick-and-morty-react/static/css/main.39c73d8c.chunk.css",
     "main.js": "/rick-and-morty-react/static/js/main.d8a16fc0.chunk.js",
     "main.js.map": "/rick-and-morty-react/static/js/main.d8a16fc0.chunk.js.map",
     "runtime-main.js": "/rick-and-morty-react/static/js/runtime-main.479d490a.js",
@@ -8,7 +8,7 @@
     "static/js/2.cc4e924b.chunk.js": "/rick-and-morty-react/static/js/2.cc4e924b.chunk.js",
     "static/js/2.cc4e924b.chunk.js.map": "/rick-and-morty-react/static/js/2.cc4e924b.chunk.js.map",
     "index.html": "/rick-and-morty-react/index.html",
-    "static/css/main.ff5f709e.chunk.css.map": "/rick-and-morty-react/static/css/main.ff5f709e.chunk.css.map",
+    "static/css/main.39c73d8c.chunk.css.map": "/rick-and-morty-react/static/css/main.39c73d8c.chunk.css.map",
     "static/js/2.cc4e924b.chunk.js.LICENSE.txt": "/rick-and-morty-react/static/js/2.cc4e924b.chunk.js.LICENSE.txt",
     "static/media/facebook.b67d08ad.svg": "/rick-and-morty-react/static/media/facebook.b67d08ad.svg",
     "static/media/instagram.f2c1c10c.svg": "/rick-and-morty-react/static/media/instagram.f2c1c10c.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.479d490a.js",
     "static/js/2.cc4e924b.chunk.js",
-    "static/css/main.ff5f709e.chunk.css",
+    "static/css/main.39c73d8c.chunk.css",
     "static/js/main.d8a16fc0.chunk.js"
   ]
 }
