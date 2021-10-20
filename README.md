@@ -3,7 +3,7 @@ Web App using the Rick and Morty API in React
 
 Deploy: https://rencas1207.github.io/rick-and-morty-react/
 
-![](https://repository-images.githubusercontent.com/407975194/e505bed6-1350-4666-91ad-c089a34462f6)
+![](https://repository-images.githubusercontent.com/411449834/ce0f48c7-0a85-4571-aa31-f6404538a96f)
 
 ### PAQUETES INSTALADOS A ESTE PROYECTO
 
